@@ -1,0 +1,38 @@
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\convert\types.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\core\functions.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\core\identifiers.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\core\noises.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\core\operators.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\core\statements.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\data\local.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\data\read.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\data\resource.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\handler\identifiers.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\selector\all.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\selector\any.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\selector\one.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\DaRQ\Library\darq\web\transfer.darq
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ.exe
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ.deps.json
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ.runtimeconfig.json
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ.runtimeconfig.dev.json
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\ref\MiMFa DaRQ.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ.pdb
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\ClearScript.Core.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\ClearScript.V8.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\ClearScript.V8.ICUData.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\runtimes\win-x86\native\ClearScriptV8.win-x86.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ - Compiler.dll
+D:\Product\Technology\MiMFa DaRQ\bin\Debug\net5.0\MiMFa DaRQ - Compiler.pdb
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.csproj.AssemblyReference.cache
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.AssemblyInfoInputs.cache
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.AssemblyInfo.cs
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.csproj.CoreCompileInputs.cache
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.csproj.CopyComplete
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.dll
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\ref\MiMFa DaRQ.dll
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.pdb
+D:\Product\Technology\MiMFa DaRQ\obj\Debug\net5.0\MiMFa DaRQ.genruntimeconfig.cache
