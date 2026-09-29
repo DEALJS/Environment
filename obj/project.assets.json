@@ -167,7 +167,7 @@
           "lib/netstandard1.6/System.Text.RegularExpressions.dll": {}
         }
       },
-      "MiMFa DaRQ - Compiler/1.0.0": {
+      "MiMFa DEAL.JS - Compiler/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -175,10 +175,10 @@
           "Newtonsoft.Json": "13.0.4"
         },
         "compile": {
-          "bin/placeholder/MiMFa DaRQ - Compiler.dll": {}
+          "bin/placeholder/MiMFa DEAL.JS - Compiler.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MiMFa DaRQ - Compiler.dll": {}
+          "bin/placeholder/MiMFa DEAL.JS - Compiler.dll": {}
         }
       }
     }
@@ -745,15 +745,15 @@
         "system.text.regularexpressions.nuspec"
       ]
     },
-    "MiMFa DaRQ - Compiler/1.0.0": {
+    "MiMFa DEAL.JS - Compiler/1.0.0": {
       "type": "project",
-      "path": "../MiMFa DaRQ - Compiler/MiMFa DaRQ - Compiler.csproj",
-      "msbuildProject": "../MiMFa DaRQ - Compiler/MiMFa DaRQ - Compiler.csproj"
+      "path": "../MiMFa DEAL.JS - Compiler/MiMFa DEAL.JS - Compiler.csproj",
+      "msbuildProject": "../MiMFa DEAL.JS - Compiler/MiMFa DEAL.JS - Compiler.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "MiMFa DaRQ - Compiler >= 1.0.0",
+      "MiMFa DEAL.JS - Compiler >= 1.0.0",
       "Microsoft.CSharp >= 4.7.0",
       "Microsoft.ClearScript.V8 >= 7.5.1.1",
       "Microsoft.ClearScript.V8.Native.win-x86 >= 7.5.1.1",
@@ -768,11 +768,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Product\\Technology\\MiMFa DaRQ\\MiMFa DaRQ.csproj",
-      "projectName": "MiMFa DaRQ - Environment",
-      "projectPath": "D:\\Product\\Technology\\MiMFa DaRQ\\MiMFa DaRQ.csproj",
+      "projectUniqueName": "D:\\Product\\Technology\\MiMFa DEAL.JS\\MiMFa DEAL.JS.csproj",
+      "projectName": "MiMFa DEAL.JS - Environment",
+      "projectPath": "D:\\Product\\Technology\\MiMFa DEAL.JS\\MiMFa DEAL.JS.csproj",
       "packagesPath": "C:\\Users\\MiMFa\\.nuget\\packages\\",
-      "outputPath": "D:\\Product\\Technology\\MiMFa DaRQ\\obj\\",
+      "outputPath": "D:\\Product\\Technology\\MiMFa DEAL.JS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -795,8 +795,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Product\\Technology\\MiMFa DaRQ - Compiler\\MiMFa DaRQ - Compiler.csproj": {
-              "projectPath": "D:\\Product\\Technology\\MiMFa DaRQ - Compiler\\MiMFa DaRQ - Compiler.csproj"
+            "D:\\Product\\Technology\\MiMFa DEAL.JS - Compiler\\MiMFa DEAL.JS - Compiler.csproj": {
+              "projectPath": "D:\\Product\\Technology\\MiMFa DEAL.JS - Compiler\\MiMFa DEAL.JS - Compiler.csproj"
             }
           }
         }

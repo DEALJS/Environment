@@ -13,8 +13,8 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiMFa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bdb27636197302cfe6bfd2f599bf4f24c4079c8")]
-[assembly: System.Reflection.AssemblyProductAttribute("DaRQ")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+912732b86cf7bb9ec82b714eaad975c7de7061c0")]
+[assembly: System.Reflection.AssemblyProductAttribute("DEAL.JS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiMFa DaRQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
