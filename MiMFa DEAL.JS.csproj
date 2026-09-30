@@ -10,7 +10,7 @@
 		<Product>DEAL.JS</Product>
 		<Authors>Mohammad Fathi (MiMFa)</Authors>
 
-		<ApplicationIcon />
+		<ApplicationIcon>logo.ico</ApplicationIcon>
 		<OutputType>Exe</OutputType>
 		<StartupObject>MiMFa.Engine.DEAL.JS.Environment.Program</StartupObject>
 
